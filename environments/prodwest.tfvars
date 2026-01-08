@@ -1,4 +1,4 @@
-environmnet              = "prod-west"
+environment              = "prod-west"
 prefix                   = "tacowagon"
 region                   = "eu-north-1"
 vpc_address_range        = "172.31.0.0/16"
