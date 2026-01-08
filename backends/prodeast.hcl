@@ -1,3 +1,3 @@
 key    = "tw-prodeast.tfstate
-bucket = "tw-terraform-state20260107122725178700000001"
+bucket = "tw-terraform-state20260108093919466500000001"
 region = "eu-north-1"""
